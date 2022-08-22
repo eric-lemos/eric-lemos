@@ -1,5 +1,3 @@
 <div align="center">
-  
-![](icon-light.svg?raw=true)
-  
-</p>
+  <img src="icon-light.svg?raw=true" />
+</div>
