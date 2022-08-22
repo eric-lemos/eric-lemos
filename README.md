@@ -1,4 +1,4 @@
-<p style="text-align:center">
+<p alignt="center">
   
 ![](icon-light.svg?raw=true)
   
