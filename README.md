@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/eric-lemos/eric-lemos/blob/output/github-contribution-grid-snake.svg)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
