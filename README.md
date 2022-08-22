@@ -1,6 +1,4 @@
 <div>
-  <p>
-    <img src="icon-light.svg?raw=true" height="75em" />
-    Teste
-  </p>
+  <img style="float: left; clear: left;" src="icon-light.svg?raw=true" height="75em" />
+  <p>Teste</p>
 </div>
