@@ -1,6 +1,8 @@
 <p align="left">
   <img align="left" src="icon-light.svg?raw=true" height="75em" />
   Olá, me chamo Eric. Eu estudo Engenharia de Software. <br/>
+  Gosto muito de Python, então sempre estou buscando desafios. <br/>
+  Tenho dedicado meu tempo para aprender Javascript & cia. <br/>
   Muitas vezes falhando, mas sempre aprendendo! ✌
 </p>
 
