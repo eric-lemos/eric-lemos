@@ -2,7 +2,7 @@
 Meu nome é Eric e estou cursando Engenharia de Softare. <br/>
 Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
 <p align="left">
-  <a href="https://t.me/rabarbrablad" target="_blank">
+  <a href="https://t.me/eric_lemos" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/telegram-2e3440.svg?&style=for-the-badge&logo=telegram">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/telegram-eceff4.svg?&style=for-the-badge&logo=telegram">
