@@ -13,7 +13,7 @@ Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
 
 <hr/>
 
-### Tech Stacks
+### 🤖 Tech Stacks
 <p align="left">
   <details>
     <summary><b>Operating systems</b></summary>
