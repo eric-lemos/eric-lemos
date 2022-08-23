@@ -1,7 +1,6 @@
 ### Sobre mim
 Meu nome é Eric e estou cursando Engenharia de Softare! <br/>
 Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
-
 <p align="left">
   <a href="https://www.linkedin.com/in/eric-lemos" target="_blank">
     <picture>
