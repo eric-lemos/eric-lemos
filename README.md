@@ -1,6 +1,6 @@
 <p align="left">
   <img align="left" src="icon-light.svg?raw=true" height="75em" />
-  Olá, seja bem-vindo! Me chamo Eric, tenho 28 anos e estudo Engenharia de Software. Tenho experiências com desenvolvimento e meus conhecimentos estão mais focados em trabalhar com Python, mas ultimamente meus olhos estão brilhando para o Javascript e seus frameworks.
+  <p>Muitas vezes falhando, mas sempre aprendendo! ✌</p>
 </p>
 
 
