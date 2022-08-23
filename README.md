@@ -1,13 +1,6 @@
 ### Olá, bem-vindo!
-<p align="left">
-<!--   <img align="left" src="icon-light.svg?raw=true" height="75em" /> -->
-  <img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="75em" />
-  &nbsp;Olá, me chamo Eric. Eu estudo Engenharia de Software. <br/>
-  &nbsp;Tenho dedicado meu tempo para aprender Javascript & cia. <br/>
-<!--   Muitas vezes falhando, mas sempre aprendendo! ✌ -->
-</p>
-
-
+Meu nome é Eric e tenho 28 anos.
+Atualmente trabalho com tecnologia na [Globo](https://globo.com/).
 
 <!-- <p align="left">
   <a href="mailto:eric.lemoss@gmail.com">
