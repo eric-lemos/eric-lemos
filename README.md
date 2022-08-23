@@ -2,8 +2,8 @@
 <p align="left">
 <!--   <img align="left" src="icon-light.svg?raw=true" height="75em" /> -->
   <img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="75em" />
-  Olá, me chamo Eric. Eu estudo Engenharia de Software. <br/>
-  Tenho dedicado meu tempo para aprender Javascript & cia. <br/>
+  &nbsp;Olá, me chamo Eric. Eu estudo Engenharia de Software. <br/>
+  &nbsp;Tenho dedicado meu tempo para aprender Javascript & cia. <br/>
 <!--   Muitas vezes falhando, mas sempre aprendendo! ✌ -->
 </p>
 
