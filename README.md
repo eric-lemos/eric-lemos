@@ -1,6 +1,6 @@
 <p align="left">
   <img align="left" src="icon-light.svg?raw=true" height="75em" />
-  Olá, me chamo Eric. Eu estudo Engenharia de Software.
+  Olá, me chamo Eric. Eu estudo Engenharia de Software. <br/>
   Muitas vezes falhando, mas sempre aprendendo! ✌
 </p>
 
