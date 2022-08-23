@@ -18,8 +18,11 @@ Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
     
 <details>
 <summary><b>Databases</b></summary>
+<br />
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </details>
   
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
     
 </p>
