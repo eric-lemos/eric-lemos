@@ -1,6 +1,7 @@
 <p align="left">
   <img align="left" src="icon-light.svg?raw=true" height="75em" />
-  - Muitas vezes falhando, mas sempre aprendendo! ✌
+  Olá, me chamo Eric. Eu estudo Engenharia de Software.
+  Muitas vezes falhando, mas sempre aprendendo! ✌
 </p>
 
 
