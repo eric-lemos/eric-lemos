@@ -1,7 +1,6 @@
 ### Sobre mim
 Meu nome é Eric e estou cursando Engenharia de Softare! <br/>
-Nas horas vagas tento melhorar minha lógica de programação com [beecrowd](https://www.beecrowd.com.br/judge/pt). <br/>
-Atualmente trabalho com tecnologia na [Globo](https://globo.com/).
+Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
 
 <!-- <p align="left">
   <a href="mailto:eric.lemoss@gmail.com">
