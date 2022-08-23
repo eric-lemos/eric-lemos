@@ -11,6 +11,8 @@ Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
   </a>&nbsp;
 </p> -->
 
+<hr/>
+
 <p align="left">
   <details>
     <summary><b>Operating systems</b></summary>
