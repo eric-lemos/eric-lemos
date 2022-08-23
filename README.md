@@ -1,6 +1,6 @@
 <p align="left">
   <img align="left" src="icon-light.svg?raw=true" height="75em" />
-  <p>Muitas vezes falhando, mas sempre aprendendo! ✌</p>
+  - Muitas vezes falhando, mas sempre aprendendo! ✌
 </p>
 
 
