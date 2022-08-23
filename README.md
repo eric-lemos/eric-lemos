@@ -44,14 +44,9 @@ Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
     <img alt="HTML" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="">
-    <source media="(prefers-color-scheme: light)" srcset="">
-    <img alt="HTML" src="">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="">
-    <source media="(prefers-color-scheme: light)" srcset="">
-    <img alt="HTML" src="">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img alt="HTML" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </picture>
 </details>  
   
