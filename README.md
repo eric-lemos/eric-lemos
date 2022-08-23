@@ -13,35 +13,12 @@ Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
 
 <hr/>
 
-### 🤖 Tech Stacks
 <p align="left">
-  <details>
-    <summary><b>Operating systems</b></summary>
-  </details>
 
-  <details>
-    <summary><b>Programming languages</b></summary>
-  </details>
-
-  <details>
-    <summary><b>Servers and load balancing</b></summary>
-  </details>
-    
 <details>
 <summary><b>💾 Databases</b></summary>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
     
-  <details>
-    <summary><b>Frontend Frameworks</b></summary>
-  </details>
-    
-  <details>
-    <summary><b>Backend Frameworks</b></summary>
-  </details>
-    
-  <details>
-    <summary><b>API services</b></summary>
-  </details>
 </p>
