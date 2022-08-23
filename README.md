@@ -27,11 +27,11 @@ Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
     <summary><b>Servers and load balancing</b></summary>
   </details>
     
-  <details>
-    <summary><b>💾 Databases</b></summary>
+<details>
+<summary><b>💾 Databases</b></summary>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  </details>
+</details>
     
   <details>
     <summary><b>Frontend Frameworks</b></summary>
