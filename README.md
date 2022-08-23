@@ -1,7 +1,7 @@
 ### Olá, bem-vindo!
 <p align="left">
 <!--   <img align="left" src="icon-light.svg?raw=true" height="75em" /> -->
-  ![](https://user-images.githubusercontent.com/19494927/186258470-0ca4eef9-627c-4984-aa93-32c6f87491b9.png)
+  <img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="75em" />
   Olá, me chamo Eric. Eu estudo Engenharia de Software. <br/>
   Tenho dedicado meu tempo para aprender Javascript & cia. <br/>
 <!--   Muitas vezes falhando, mas sempre aprendendo! ✌ -->
