@@ -48,6 +48,11 @@ Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
     <source media="(prefers-color-scheme: light)" srcset="">
     <img alt="HTML" src="">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)" srcset="">
+    <img alt="HTML" src="">
+  </picture>
 </details>  
   
 <details>
