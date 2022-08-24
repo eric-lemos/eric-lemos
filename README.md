@@ -1,7 +1,6 @@
 ### Hello, I'm Eric!
 
-Currently studying software engineering at [Unicesumar](https://www.unicesumar.edu.br/english/) and <br />
-working with media solutions at [Globo](https://globo.com/).
+Currently studying software engineering at [Unicesumar](https://www.unicesumar.edu.br/english/) and working with media solutions at [Globo](https://globo.com/).
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eric-lemos" target="_blank">
