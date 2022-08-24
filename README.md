@@ -1,6 +1,8 @@
-<!-- ### Sobre mim
-Meu nome é Eric e estou cursando Engenharia de Softare. <br/>
-Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
+### Hello, I'm Eric!
+
+Currently studying software engineering at [Unicesumar](https://www.unicesumar.edu.br/english/) and
+working with media solutions at [Globo](https://globo.com/).
+
 <p align="left">
   <a href="https://www.linkedin.com/in/eric-lemos" target="_blank">
     <picture>
@@ -9,7 +11,7 @@ Atualmente trabalho com Soluções de Mídias na [Globo](https://globo.com/).
       <img alt="LindedIn" src="https://img.shields.io/badge/linkedin-eceff4.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2">
     </picture>
   </a>&nbsp;
-</p> -->
+</p>
 
 <hr/>
 
