@@ -1,6 +1,6 @@
 ### Hello, I'm Eric!
 
-Currently studying software engineering at [Unicesumar](https://www.unicesumar.edu.br/english/) and
+Currently studying software engineering at [Unicesumar](https://www.unicesumar.edu.br/english/) and <br />
 working with media solutions at [Globo](https://globo.com/).
 
 <p align="left">
