@@ -55,6 +55,11 @@
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Google%20Cloud-eceff4.svg?&logo=google-cloud&logoColor=4382b4">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-2e3440.svg?&logo=google-cloud&logoColor=4382b4">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jira-2e3440.svg?&logo=Jira&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Jira-eceff4.svg?&logo=Jira&logoColor=4382b4">
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-2e3440.svg?&logo=Jira&logoColor=4382b4">
+  </picture>
   </details>
 
   <details>
@@ -91,9 +96,9 @@
     <img alt="Django" src="https://img.shields.io/badge/Django-2e3440.svg?&logo=Django&logoColor=4382b4">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=Selenium&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Selenium-eceff4.svg?&logo=Selenium&logoColor=4382b4">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=Selenium&logoColor=4382b4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flask-2e3440.svg?&logo=Flask&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Flask-eceff4.svg?&logo=Flask&logoColor=4382b4">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-2e3440.svg?&logo=Flask&logoColor=4382b4">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postman-2e3440.svg?&logo=Postman&logoColor=4382b4">
@@ -104,16 +109,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Arduino-2e3440.svg?&logo=Arduino&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Arduino-eceff4.svg?&logo=Arduino&logoColor=4382b4">
     <img alt="Arduino" src="https://img.shields.io/badge/Arduino-2e3440.svg?&logo=Arduino&logoColor=4382b4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Raspberry%20Pi-2e3440.svg?&logo=Raspberry-Pi&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Raspberry%20Pi-eceff4.svg?&logo=Raspberry-Pi&logoColor=4382b4">
-    <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-2e3440.svg?&logo=Raspberry-Pi&logoColor=4382b4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Trello-2e3440.svg?&logo=Trello&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Trello-eceff4.svg?&logo=Trello&logoColor=4382b4">
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-2e3440.svg?&logo=Trello&logoColor=4382b4">
   </picture>
   </details>
   
@@ -126,9 +121,9 @@
       <img alt="React" src="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kotlin-2e3440.svg?&logo=Kotlin&logoColor=4995ab">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kotlin-eceff4.svg?&logo=Kotlin&logoColor=4995ab">
-      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-eceff4.svg?&logo=Kotlin&logoColor=4995ab">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MUI-2e3440.svg?&logo=MUI&logoColor=4995ab">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MUI-eceff4.svg?&logo=MUI&logoColor=4995ab">
+      <img alt="MUI" src="https://img.shields.io/badge/MUI-eceff4.svg?&logo=MUI&logoColor=4995ab">
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
@@ -145,11 +140,6 @@
   <details>
     <summary><b>I plan to study soon</b></summary>
     <br />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-2e3440.svg?&logo=Java&logoColor=4382b4">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Java-eceff4.svg?&logo=Java&logoColor=4382b4">
-      <img alt="Java" src="https://img.shields.io/badge/Java-2e3440.svg?&logo=Java&logoColor=4382b4">
-    </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node-2e3440.svg?&logo=node.js&logoColor=4995ab">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Node-eceff4.svg?&logo=node.js&logoColor=4995ab">
