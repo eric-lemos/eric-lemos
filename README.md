@@ -59,6 +59,11 @@
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Python-eceff4.svg?&logo=python&logoColor=4382b4">
       <img alt="Python" src="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
     </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=4382b4">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=4382b4">
+      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=4382b4">
+    </picture>
   </details>
   
   <details>
