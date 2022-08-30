@@ -55,6 +55,11 @@
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Trello-eceff4.svg?&logo=Trello&logoColor=4382b4">
     <img alt="Trello" src="https://img.shields.io/badge/Trello-2e3440.svg?&logo=Trello&logoColor=4382b4">
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=4382b4">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=4382b4">
+  </picture>
   </details>
 
   <details>
@@ -81,6 +86,11 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=4382b4">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=Selenium&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Selenium-eceff4.svg?&logo=Selenium&logoColor=4382b4">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=Selenium&logoColor=4382b4">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postman-2e3440.svg?&logo=Postman&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Postman-eceff4.svg?&logo=Postman&logoColor=4382b4">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-2e3440.svg?&logo=Postman&logoColor=4382b4">
@@ -99,6 +109,22 @@
   
   <details>
     <summary><b>Some things I also like</b></summary>
+    <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2e3440.svg?&logo=react&logoColor=4995ab">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
+      <img alt="React" src="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kubernetes-eceff4.svg?&logo=kubernetes&logoColor=326CE5">
+      <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Terraform-2e3440.svg?&logo=terraform&logoColor=7b42bc">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Terraform-eceff4.svg?&logo=terraform&logoColor=7b42bc">
+      <img alt="Terraform" src="https://img.shields.io/badge/Terraform-2e3440.svg?&logo=terraform&logoColor=7b42bc">
+    </picture>
   </details>
   
   <details>
@@ -108,6 +134,16 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-2e3440.svg?&logo=Java&logoColor=4382b4">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Java-eceff4.svg?&logo=Java&logoColor=4382b4">
       <img alt="Java" src="https://img.shields.io/badge/Java-2e3440.svg?&logo=Java&logoColor=4382b4">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node-2e3440.svg?&logo=node.js&logoColor=4995ab">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Node-eceff4.svg?&logo=node.js&logoColor=4995ab">
+      <img alt="Node" src="https://img.shields.io/badge/Node-eceff4.svg?&logo=node.js&logoColor=4995ab">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Express-2e3440.svg?&logo=Express&logoColor=4995ab">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Express-eceff4.svg?&logo=Express&logoColor=4995ab">
+      <img alt="Express" src="https://img.shields.io/badge/Express-eceff4.svg?&logo=Express&logoColor=4995ab">
     </picture>
   </details>
 </div>
