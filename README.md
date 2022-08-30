@@ -7,10 +7,10 @@
   
   ### 👋🏽 Hi, I'm [Eric Lemos](eric-lemos.github.io)
 
-  > Welcome to my profile! I am a developer, software engineering student, and [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/) student.
-
+  Welcome to my profile! I am a developer, software engineering student and part of the third class of [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
+  
   <details>
-  <summary><b>Things I use a lot now</b></summary>
+  <summary><b>Things I use a lot now</b> <i>(click)</i></summary>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
