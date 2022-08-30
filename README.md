@@ -45,6 +45,11 @@
       <img alt="Jira" src="https://img.shields.io/badge/Jira-2e3440.svg?&logo=Jira&logoColor=4382b4">
     </picture>
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-2e3440.svg?&logo=Linux&logoColor=4382b4">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Linux-eceff4.svg?&logo=Linux&logoColor=4382b4">
+      <img alt="Linux" src="https://img.shields.io/badge/Linux-2e3440.svg?&logo=Linux&logoColor=4382b4">
+    </picture>
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-2e3440.svg?&logo=Markdown&logoColor=4382b4">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Markdown-eceff4.svg?&logo=Markdown&logoColor=4382b4">
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-2e3440.svg?&logo=Markdown&logoColor=4382b4">
