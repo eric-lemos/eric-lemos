@@ -53,11 +53,6 @@
       <img alt="Linux" src="https://img.shields.io/badge/Linux-2e3440.svg?&logo=Linux&logoColor=4382b4">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-2e3440.svg?&logo=Markdown&logoColor=4382b4">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Markdown-eceff4.svg?&logo=Markdown&logoColor=4382b4">
-      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-2e3440.svg?&logo=Markdown&logoColor=4382b4">
-    </picture>
-    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=4382b4">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Postgres-eceff4.svg?&logo=postgresql&logoColor=4382b4">
       <img alt="Postgres" src="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=4382b4">
@@ -76,11 +71,6 @@
   
   <details>
     <summary><b>Things I have used in the past</b></summary>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Arduino-2e3440.svg?&logo=Arduino&logoColor=4382b4">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Arduino-eceff4.svg?&logo=Arduino&logoColor=4382b4">
-      <img alt="Arduino" src="https://img.shields.io/badge/Arduino-2e3440.svg?&logo=Arduino&logoColor=4382b4">
-    </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=C&logoColor=4382b4">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C-eceff4.svg?&logo=C&logoColor=4382b4">
@@ -115,11 +105,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-2e3440.svg?&logo=PHP&logoColor=4382b4">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/PHP-eceff4.svg?&logo=PHP&logoColor=4382b4">
       <img alt="PHP" src="https://img.shields.io/badge/PHP-2e3440.svg?&logo=PHP&logoColor=4382b4">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postman-2e3440.svg?&logo=Postman&logoColor=4382b4">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Postman-eceff4.svg?&logo=Postman&logoColor=4382b4">
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-2e3440.svg?&logo=Postman&logoColor=4382b4">
     </picture>
   </details>
   
