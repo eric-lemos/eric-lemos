@@ -2,8 +2,7 @@
 
 <div align="left">
   <img width="49%" align="left" src="developer.png" />
-  <br/>
-  
+
   ### 👋🏽 Hi, I'm [Eric Lemos](eric-lemos.github.io)
 
   Welcome to my profile! I am a developer, software engineering student and part of the third class of [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
@@ -60,7 +59,7 @@
   </details>
 </div>
 
-<br /><br /><br />
+<br /><br /><br /><br />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eric-lemos&theme=nord_dark">
