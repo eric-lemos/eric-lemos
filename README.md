@@ -9,7 +9,6 @@
   
   <details>
   <summary><b>Things I use a lot now</b> <i>(click)</i></summary>
-  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-2e3440.svg?&logo=python&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Python-eceff4.svg?&logo=python&logoColor=4382b4">
@@ -64,7 +63,6 @@
 
   <details>
     <summary><b>Things I have used in the past</b></summary>
-    <br />
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=C&logoColor=4382b4">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C-eceff4.svg?&logo=C&logoColor=4382b4">
@@ -114,7 +112,6 @@
   
   <details>
     <summary><b>Some things I also like</b></summary>
-    <br/>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2e3440.svg?&logo=react&logoColor=4995ab">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
@@ -139,7 +136,6 @@
   
   <details>
     <summary><b>I plan to study soon</b></summary>
-    <br />
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node-2e3440.svg?&logo=node.js&logoColor=4995ab">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Node-eceff4.svg?&logo=node.js&logoColor=4995ab">
