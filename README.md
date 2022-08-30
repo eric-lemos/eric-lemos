@@ -1,7 +1,7 @@
 <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" />
 
 <div align="left">
-  <img width="45%" align="left" src="developer.png" />
+  <img width="50%" align="left" src="developer.png" />
   <br/>
   
   ### 👋🏽 Hi, I'm [Eric Lemos](eric-lemos.github.io)
