@@ -1,12 +1,15 @@
 <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" />
 
 <div align="left">
-  <img width="49%" align="left" src="developer.png?raw=true" />
-  <br />
+  <img width="45%" align="left" src="developer.png?raw=true" />
+  <h3>👋🏽 Hi, I'm <a href="eric-lemos.github.io">Eric Lemos</a></h3>
   
+  Welcome to my profile! I am a developer, software engineering student and part of the third class of <a href="https://www.oracle.com/br/education/oracle-next-education/">Oracle Next Education</a>.
+  
+  <!--
   ### 👋🏽 Hi, I'm [Eric Lemos](eric-lemos.github.io)
   Welcome to my profile! I am a developer, software engineering student and part of the third class of [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
-  
+  -->  
   <details>
     <summary><b>Things I use a lot now</b> <i>(click)</i></summary>
     <picture>
