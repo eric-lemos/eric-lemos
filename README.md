@@ -91,6 +91,11 @@
       <img alt="PHP" src="https://img.shields.io/badge/PHP-2e3440.svg?&logo=PHP&logoColor=4382b4">
     </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jQUery-2e3440.svg?&logo=jQUery&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/jQUery-eceff4.svg?&logo=jQUery&logoColor=4382b4">
+    <img alt="jQUery" src="https://img.shields.io/badge/jQUery-2e3440.svg?&logo=jQUery&logoColor=4382b4">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MySQL-eceff4.svg?&logo=mysql&logoColor=4382b4">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=4382b4">
