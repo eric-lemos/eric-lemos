@@ -55,21 +55,6 @@
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Google%20Cloud-eceff4.svg?&logo=google-cloud&logoColor=4382b4">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-2e3440.svg?&logo=google-cloud&logoColor=4382b4">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-2e3440.svg?&logo=linux&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Linux-eceff4.svg?&logo=linux&logoColor=4382b4">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-2e3440.svg?&logo=linux&logoColor=4382b4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jira-2e3440.svg?&logo=Jira&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Jira-eceff4.svg?&logo=Jira&logoColor=4382b4">
-    <img alt="Jira" src="https://img.shields.io/badge/Jira-2e3440.svg?&logo=Jira&logoColor=4382b4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/VS%20Code-eceff4.svg?&logo=visual-studio-code&logoColor=4382b4">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=4382b4">
-  </picture>
   </details>
 
   <details>
