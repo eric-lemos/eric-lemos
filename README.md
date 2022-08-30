@@ -1,7 +1,7 @@
 <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" />
 
 <div align="left">
-  <img width="48%" align="left" src="developer.png?raw=true" />
+  <img width="45%" align="left" src="developer.png?raw=true" />
   <h3>👋🏽 Hi, I'm <a href="eric-lemos.github.io">Eric Lemos</a></h3>
   
   Welcome to my profile! I am a developer, software engineering student and part of the third class of <a href="https://www.oracle.com/br/education/oracle-next-education/">Oracle Next Education</a>.
