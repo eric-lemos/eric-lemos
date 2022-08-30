@@ -58,11 +58,9 @@
   <details>
     <summary><b>Some things I also like</b></summary>
   </details>
-  
 </div>
 
 <br /><br /><br />
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eric-lemos&theme=nord_dark">
