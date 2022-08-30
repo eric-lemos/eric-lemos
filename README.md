@@ -36,6 +36,21 @@
     <img alt="Postgres" src="https://img.shields.io/badge/Postgres-2e3440.svg?&logo=postgresql&logoColor=4382b4">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-2e3440.svg?&logo=Git&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Git-eceff4.svg?&logo=Git&logoColor=4382b4">
+    <img alt="Git" src="https://img.shields.io/badge/Git-2e3440.svg?&logo=Git&logoColor=4382b4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-2e3440.svg?&logo=GitHub&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/GitHub-eceff4.svg?&logo=GitHub&logoColor=4382b4">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-2e3440.svg?&logo=GitHub&logoColor=4382b4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-2e3440.svg?&logo=Markdown&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Markdown-eceff4.svg?&logo=Markdown&logoColor=4382b4">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-2e3440.svg?&logo=Markdown&logoColor=4382b4">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Google%20Cloud-2e3440.svg?&logo=google-cloud&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Google%20Cloud-eceff4.svg?&logo=google-cloud&logoColor=4382b4">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-2e3440.svg?&logo=google-cloud&logoColor=4382b4">
@@ -49,11 +64,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jira-2e3440.svg?&logo=Jira&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Jira-eceff4.svg?&logo=Jira&logoColor=4382b4">
     <img alt="Jira" src="https://img.shields.io/badge/Jira-2e3440.svg?&logo=Jira&logoColor=4382b4">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Trello-2e3440.svg?&logo=Trello&logoColor=4382b4">
-    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Trello-eceff4.svg?&logo=Trello&logoColor=4382b4">
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-2e3440.svg?&logo=Trello&logoColor=4382b4">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/VS%20Code-2e3440.svg?&logo=visual-studio-code&logoColor=4382b4">
@@ -86,6 +96,11 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-2e3440.svg?&logo=mysql&logoColor=4382b4">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Django-2e3440.svg?&logo=Django&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Django-eceff4.svg?&logo=Django&logoColor=4382b4">
+    <img alt="Django" src="https://img.shields.io/badge/Django-2e3440.svg?&logo=Django&logoColor=4382b4">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=Selenium&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Selenium-eceff4.svg?&logo=Selenium&logoColor=4382b4">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-2e3440.svg?&logo=Selenium&logoColor=4382b4">
@@ -103,7 +118,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Raspberry%20Pi-2e3440.svg?&logo=Raspberry-Pi&logoColor=4382b4">
     <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Raspberry%20Pi-eceff4.svg?&logo=Raspberry-Pi&logoColor=4382b4">
-    <img alt="Arduino" src="https://img.shields.io/badge/Raspberry%20Pi-2e3440.svg?&logo=Raspberry-Pi&logoColor=4382b4">
+    <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-2e3440.svg?&logo=Raspberry-Pi&logoColor=4382b4">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Trello-2e3440.svg?&logo=Trello&logoColor=4382b4">
+    <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Trello-eceff4.svg?&logo=Trello&logoColor=4382b4">
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-2e3440.svg?&logo=Trello&logoColor=4382b4">
   </picture>
   </details>
   
@@ -114,6 +134,11 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-2e3440.svg?&logo=react&logoColor=4995ab">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
       <img alt="React" src="https://img.shields.io/badge/React-eceff4.svg?&logo=react&logoColor=4995ab">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kotlin-2e3440.svg?&logo=Kotlin&logoColor=4995ab">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kotlin-eceff4.svg?&logo=Kotlin&logoColor=4995ab">
+      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-eceff4.svg?&logo=Kotlin&logoColor=4995ab">
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
