@@ -123,14 +123,9 @@
       <img alt="MUI" src="https://img.shields.io/badge/MUI-eceff4.svg?&logo=MUI&logoColor=4995ab">
     </picture>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Kubernetes-eceff4.svg?&logo=kubernetes&logoColor=326CE5">
-      <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-2e3440.svg?&logo=kubernetes&logoColor=326CE5">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Terraform-2e3440.svg?&logo=terraform&logoColor=7b42bc">
-      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Terraform-eceff4.svg?&logo=terraform&logoColor=7b42bc">
-      <img alt="Terraform" src="https://img.shields.io/badge/Terraform-2e3440.svg?&logo=terraform&logoColor=7b42bc">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MariaDB-2e3440.svg?&logo=MariaDB&logoColor=326CE5">
+      <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MariaDB-eceff4.svg?&logo=MariaDB&logoColor=326CE5">
+      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-2e3440.svg?&logo=MariaDB&logoColor=326CE5">
     </picture>
   </details>
   
