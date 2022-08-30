@@ -3,7 +3,7 @@
 
 
 <div align="left"> 
-  <img align="right" width="480" src="developer.png" />
+  <img align="right" width="50%" src="developer.png" />
 
   ### 👋🏽 Hi, I'm [Eric Lemos](eric-lemos.github.io)
 
