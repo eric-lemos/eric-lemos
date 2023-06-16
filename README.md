@@ -109,7 +109,7 @@
   </details>
   
   <details>
-    <summary><b>Algumas coisas eu também gosto</b></summary>
+    <summary><b>Algumas outras que eu gosto</b></summary>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MariaDB-2e3440.svg?&logo=MariaDB&logoColor=326CE5">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/MariaDB-eceff4.svg?&logo=MariaDB&logoColor=326CE5">
