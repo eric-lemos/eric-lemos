@@ -151,7 +151,7 @@
 </div>
 
 <div align="center">
-  <p><i>Often Failing, Always Learning. Let's code!</i> 🤟🏽</p>
+  <p><i>Muitas vezes falhando, sempre aprendendo. Let's code!</i> 🤟🏽</p>
 </div>
 
 <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
