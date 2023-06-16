@@ -11,7 +11,7 @@
   Welcome to my profile! I am a developer, software engineering student and part of the third class of [Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
   -->  
   <details>
-    <summary><b>Tecnologias que eu uso muito agora</b> <i>(click)</i></summary>
+    <summary><b>Coisas que eu uso muito agora</b> <i>(click)</i></summary>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-2e3440.svg?&logo=CSS3&logoColor=4382b4">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/CSS-eceff4.svg?&logo=CSS3&logoColor=4382b4">
@@ -70,7 +70,7 @@
   </details>
   
   <details>
-    <summary><b>Things I have used in the past</b></summary>
+    <summary><b>Mas já usei essas outras coisas</b></summary>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-2e3440.svg?&logo=C&logoColor=4382b4">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/C-eceff4.svg?&logo=C&logoColor=4382b4">
