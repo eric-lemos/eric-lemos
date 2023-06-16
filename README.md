@@ -128,7 +128,7 @@
   </details>
   
   <details>
-    <summary><b>I plan to study soon</b></summary>
+    <summary><b>Pretendo estudar em breve</b></summary>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Express-2e3440.svg?&logo=Express&logoColor=4995ab">
       <source media="(prefers-color-scheme: light)"srcset="https://img.shields.io/badge/Express-eceff4.svg?&logo=Express&logoColor=4995ab">
