@@ -2,7 +2,7 @@
 
 <div align="left">
   <img width="45%" align="left" src="developer.png?raw=true" />
-  <h3>👋🏽 Hi, I'm <a href="eric-lemos.github.io">Eric Lemos</a></h3>
+  <h3>👋🏽 Olá, me chamo <a href="eric-lemos.github.io">Eric Lemos</a>!</h3>
   
   Bem-vindo ao meu perfil! Sou desenvolvedor, estudante de engenharia de software e um grande admirador da evolução da tecnologia.
   
