@@ -4,7 +4,7 @@
   <img width="45%" align="left" src="developer.png?raw=true" />
   <h3>👋🏽 Hi, I'm <a href="eric-lemos.github.io">Eric Lemos</a></h3>
   
-  Welcome to my profile! I am a developer, software engineering student and part of the third class of <a href="https://www.oracle.com/br/education/oracle-next-education/">Oracle Next Education</a>.
+  Bem-vindo ao meu perfil! Sou desenvolvedor, estudante de engenharia de software e um grande admirador da evolução da tecnologia.
   
   <!--
   ### 👋🏽 Hi, I'm [Eric Lemos](eric-lemos.github.io)
